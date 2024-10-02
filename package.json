@@ -1,6 +1,6 @@
 {
-  "name": "my-map-function",
-  "version": "1.0.0",
+  "name": "@iki789/my-map-function",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
